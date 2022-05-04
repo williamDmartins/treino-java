@@ -4,6 +4,8 @@ public class TiposPrimitivos {
 	public static void main(String[] args) {
 		//informações do funcionario
 		
+		
+		
 		//tipos numéricos inteiros
 		byte anosDeEmpresa = 23;
 		short numerosDeVoos = 542;
